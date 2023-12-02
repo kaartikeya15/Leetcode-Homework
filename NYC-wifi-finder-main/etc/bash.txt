@@ -1,0 +1,5 @@
+export NODE_ENV=prd
+
+./css/roll-css.sh ../../wifi-finder/src/main/webapp/css/wifi.theme.css ../../wifi-finder/src/main/webapp/css/wifi.css
+
+cp css/build/nyc.ol.wifi.theme.css ../../wifi-finder/src/main/webapp/css/

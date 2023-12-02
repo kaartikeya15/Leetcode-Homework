@@ -1,0 +1,22 @@
+.provider, .type {
+  margin: 5px 0;
+}
+.facility .name, .filter-chc-0 label {
+  padding: 1px 25px;
+  background-position: 0 center;
+  background-repeat: no-repeat;
+  background-size: 20px;
+}
+.facility .name {
+    line-height: 22px;
+    background-position: 0 0;
+}
+.facility.free .name, label[for="chc-chc-0"] {
+  background-image: url('free.svg');
+}
+.facility.limited-free .name, label[for="chc-chc-1"] {
+  background-image: url('limited-free.svg');
+}
+.facility.partner-site .name, label[for="chc-chc-2"] {
+  background-image: url('partner-site.svg');
+}

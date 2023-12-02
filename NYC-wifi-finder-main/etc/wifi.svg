@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512.00001 512.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="wifi.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.3847656"
+     inkscape:cx="257.61846"
+     inkscape:cy="247.8111"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1600"
+     inkscape:window-height="878"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36216)">
+    <rect
+       id="rect4720"
+       width="512"
+       height="512"
+       x="0"
+       y="540.36218"
+       style="opacity:1;fill:#354b5e;fill-opacity:1;" />
+    <g
+       transform="matrix(2.8571429,0,0,2.8571429,-1206.8571,236.58422)"
+       style="fill:#d74b4b;fill-opacity:1;stroke:#dcddd8;stroke-opacity:1"
+       id="g4726">
+      <circle
+         cx="512.00623"
+         cy="238.54443"
+         r="20.087946"
+         id="circle4728"
+         style="fill:#d74b4b;fill-opacity:1;stroke:#dcddd8;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 512.00621,174.1023 c -24.6055,0 -46.78259,14.60617 -56.51409,37.19394 -2.3927,5.55321 0.17856,11.9992 5.73176,14.3919 5.5532,2.3927 11.9992,-0.1607 14.3919,-5.73176 6.26744,-14.5526 20.5522,-23.96269 36.40829,-23.96269 15.85608,0 30.12299,9.41009 36.40828,23.96269 1.7856,4.14258 5.82104,6.62456 10.07076,6.62456 1.44633,0 2.91052,-0.2857 4.32114,-0.8928 5.5532,-2.3927 8.12446,-8.83869 5.73176,-14.3919 -9.76721,-22.58777 -31.9443,-37.19394 -56.5498,-37.19394 z"
+         id="path4730"
+         style="fill:#d74b4b;fill-opacity:1;stroke:#dcddd8;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 597.71478,179.54836 c -19.03445,-29.01592 -51.06802,-46.33619 -85.70857,-46.33619 -34.64055,0 -66.67412,17.32027 -85.70857,46.33619 -3.32121,5.05324 -1.91059,11.85635 3.1605,15.15971 1.85702,1.2142 3.92831,1.78559 5.9996,1.78559 3.57119,0 7.07096,-1.74988 9.17796,-4.9461 14.94543,-22.80205 40.14018,-36.42614 67.37051,-36.42614 27.23033,0 52.42508,13.62409 67.38836,36.444 3.32121,5.05323 10.10647,6.48171 15.15971,3.1605 5.05323,-3.32121 6.46385,-10.10647 3.1605,-15.17756 z"
+         id="path4732"
+         style="fill:#d74b4b;fill-opacity:1;stroke:#dcddd8;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:137.5px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#dcddd8;fill-opacity:0.9254902;stroke:#354b5e;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="250.83032"
+       y="874.13739"
+       id="text4176"
+       sodipodi:linespacing="89.999998%"><tspan
+         sodipodi:role="line"
+         id="tspan4764"
+         x="250.83032"
+         y="874.13739">Wifi</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4766"
+         x="250.83032"
+         y="997.88739">Finder</tspan></text>
+    <g
+       style="fill:#dcddd8;stroke:#354b5e;stroke-width:1.21599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:0.9254902"
+       transform="matrix(3.2894737,0,0,3.2894737,10.934209,583.54388)"
+       id="g4795">
+      <polygon
+         points="46.6,50.8 49.7,47.7 49.7,4.3 46.6,1.2 34.1,1.2 31,4.3 31,16.7 15.5,1.2 3.1,1.2 0,4.3 0,47.7 3.1,50.8 15.5,50.8 18.6,47.7 18.6,35.3 34.1,50.8 "
+         id="polygon4797"
+         style="stroke-width:1.21599999;stroke-miterlimit:4;stroke-dasharray:none;stroke:#354b5e;stroke-opacity:1;fill:#dcddd8;fill-opacity:0.9254902" />
+      <polygon
+         points="74.5,16.7 68.3,10.5 68.3,4.3 65.2,1.2 52.8,1.2 49.7,4.3 49.7,22.9 65.2,38.4 65.2,47.7 68.3,50.8 80.7,50.8 83.8,47.7 83.8,38.4 99.3,22.9 99.3,10.5 99.3,4.3 96.2,1.2 83.8,1.2 80.7,4.3 80.7,10.5 "
+         id="polygon4799"
+         style="stroke-width:1.21599999;stroke-miterlimit:4;stroke-dasharray:none;stroke:#354b5e;stroke-opacity:1;fill:#dcddd8;fill-opacity:0.9254902" />
+      <polygon
+         points="149,10.5 139.7,1.2 108.6,1.2 99.3,10.5 99.3,41.5 108.6,50.8 139.7,50.8 149,41.5 149,32.2 145.9,29.1 130.4,29.1 130.4,32.2 118,32.2 118,19.8 130.4,19.8 130.4,22.9 145.9,22.9 149,19.8 "
+         id="polygon4801"
+         style="stroke-width:1.21599999;stroke-miterlimit:4;stroke-dasharray:none;stroke:#354b5e;stroke-opacity:1;fill:#dcddd8;fill-opacity:0.9254902" />
+    </g>
+  </g>
+</svg>
